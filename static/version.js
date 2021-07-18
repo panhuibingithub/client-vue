@@ -1,0 +1,1 @@
+{"clientName":"standerd","clientFullName":"标准版本2.0","clientSystemName":"系统名称","version":"1.0.0","packageTime":"2021/7/18 下午8:34:12"}
